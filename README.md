@@ -1,19 +1,22 @@
-# Hey, I'm Jovanni 👋
+# Hi, I'm Jovanni 👋
 
-Software engineering student at Austin Community College, graduating spring 2027. I like building things that actually work — backend systems, clean OOP, and the occasional generative art project when I need a break from grading myself on code style.
+I am a software engineering student at Austin Community College, graduating spring 2027. I like building cool things from the ground up and consistently testing my knowledge with tech. It seems like nowadays, things are moving so fast. What I learned a year, or month ago, is already the old way so the learning never ends. 
 
 ## 🔧 What I'm working on
-- Refactoring a Java task tracker from a single-class script into a proper OOP app (Task / TaskManager / MainApp)
+- Refactoring a Java task tracker from a single-class script into a proper OOP app (Task / TaskManager / MainApp). I will be uploading to GitHub from start to finish. 
 - Machine learning projects in Python — regression, ensemble methods, dimensionality reduction
 - Building out a backend project for my internship portfolio
 
 ## 🛠️ Tech I use
-`Java` `Python` `JavaScript` `Racket` `SQL` `Jupyter/Pandas/scikit-learn` `Git`
+`Java` `Python` `JavaScript` `Racket` `SQL` `Jupyter/Pandas/scikit-learn` `Git` `javascript`  `linux` `CSS` `C++`
 
 ## 🌱 A few other things about me
-- I play guitar
-- I keep way too many houseplants (my Money Tree is thriving, ask me about it)
-- I like turning boring algorithms into visual stuff — built a procedurally generated fractal tree and a 600-frame zoom animation in Racket for fun
+- I play guitar and piano
+- I like plants such as a money tree, orchids and succulents. Bonsai trees are pretty cool too. 
+- I am an extrovert who is outgoing and spontaneous with no boring days in my calendar. 
+- I prefer the beach over a mountain and sun over rain.
+- My musical taste is scattered as I go through the phases of life but reggaeton has always bee there for me.
+- I have been a bartender for over half a decade and am pretty seasoned. I did not want to bartend forever so I followed a career in software development. 
 
 ## 📫 Reach me
 Feel free to check out my repos below or connect with me here on GitHub.
