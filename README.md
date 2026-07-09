@@ -1,6 +1,6 @@
 # Hi, I'm Jovanni 👋
 
-I am a software engineering student at Austin Community College, graduating spring 2027. I like building cool things from the ground up and consistently testing my knowledge with tech. It seems like nowadays, things are moving so fast. What I learned a year, or month ago, is already the old way so the learning never ends. 
+I am a software development student at Austin Community College, graduating spring 2027. I like building cool things from the ground up and consistently testing my knowledge with tech. It seems like nowadays, things are moving so fast. What I learned a year, or month ago, is already the old way so the learning never ends. 
 
 ## 🔧 What I'm working on
 - Refactoring a Java task tracker from a single-class script into a proper OOP app (Task / TaskManager / MainApp). I will be uploading to GitHub from start to finish. 
