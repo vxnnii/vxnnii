@@ -15,7 +15,7 @@ I am a software development student at Austin Community College, graduating spri
 - I like plants such as a money tree, orchids and succulents. Bonsai trees are pretty cool too. 
 - I am an extrovert who is outgoing and spontaneous with no boring days in my calendar. 
 - I prefer the beach over a mountain and sun over rain.
-- My musical taste is scattered as I go through the phases of life but reggaeton has always bee there for me.
+- My musical taste is scattered as I go through the phases of life but reggaeton has always been there for me.
 - I have been a bartender for over half a decade and am pretty seasoned. I did not want to bartend forever so I followed a career in software development. 
 
 ## 📫 Reach me
