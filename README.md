@@ -8,7 +8,7 @@ I am a software development student at Austin Community College, graduating spri
 - Building out a backend project for my internship portfolio
 
 ## 🛠️ Tech I use
-`Java` `Python` `JavaScript` `Racket` `SQL` `Jupyter/Pandas/scikit-learn` `Git`  `linux` `CSS` `C++`
+`Java` `Python` `JavaScript` `Racket` `SQL` `Jupyter/Pandas/scikit-learn` `Git`  `linux` `CSS` `C++` `MachineLearning`
 
 ## 🌱 A few other things about me
 - I play guitar and piano
